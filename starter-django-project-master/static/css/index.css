@@ -1,0 +1,34 @@
+.title {
+    font-size: 200%;
+    font-weight: bold;
+    color: red;
+}
+
+.plain {
+	font-family: "Courier New", monospace;
+	color: blue;
+	font-size: 16;
+}
+
+.letters{
+	font-size: 13;
+	color: blue;
+	font-family: "Courier";
+}
+
+.prompt{
+	font-weight: bold;
+}
+
+.player{
+
+}
+
+.tip{
+	font-weight: bold;
+
+}
+
+.advice{
+
+}
